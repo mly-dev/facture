@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p C:/Users/ALEM/Sallah/backend/config C:/Users/ALEM/Sallah/backend/apps/accounts C:/Users/ALEM/Sallah/backend/apps/clients C:/Users/ALEM/Sallah/backend/apps/products C:/Users/ALEM/Sallah/backend/apps/invoices/templates C:/Users/ALEM/Sallah/backend/apps/dashboard)",
+      "Bash(mkdir -p C:/Users/ALEM/Sallah/frontend/src/api C:/Users/ALEM/Sallah/frontend/src/components C:/Users/ALEM/Sallah/frontend/src/pages C:/Users/ALEM/Sallah/frontend/src/hooks C:/Users/ALEM/Sallah/frontend/src/utils C:/Users/ALEM/Sallah/frontend/src/contexts)"
+    ]
+  }
+}
